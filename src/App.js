@@ -1,7 +1,7 @@
 import React from 'react';
 import {useState} from 'react';
+import PortfolioContainer from './components/PortfolioContainer';
 import Header from '';
-import PortfolioContainer from '';
 import Footer from '';
 import './App.css';
 
