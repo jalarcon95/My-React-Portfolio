@@ -1,8 +1,8 @@
 import React from 'react';
 import {useState} from 'react';
 import PortfolioContainer from './components/PortfolioContainer';
-import Header from '';
-import Footer from '';
+import Header from './components/Header/Header';
+import Footer from './components/Footer/Footer';
 import './App.css';
 
 const App = () => {
