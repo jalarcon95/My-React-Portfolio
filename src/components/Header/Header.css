@@ -1,5 +1,5 @@
 .headerParent {
-    background-color: ;
+    background-color: #0a2756;
     height: '30vh';
     display: flex;
     justify-content: space-between;
@@ -7,6 +7,6 @@
 }
 
 #header-text {
-    font-size: ;
-    color: ;
+    font-size: xx-large;
+    color: #e3e3e3;
 }

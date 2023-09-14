@@ -1,0 +1,43 @@
+#icon {
+    color: #e3e3e3;
+}
+
+#icon:hover {
+    color: #1bcfef;
+    cursor: pointer;
+}
+
+@keyframes pop-on-hover {
+    60% {
+        -webkit-transform: scale(1.4);
+        transform: scale(1.4);
+    }
+}
+
+@-webkit-keyframes pop-on-hover {
+    60% {
+        -webkit-transform: scale(1.4);
+        transform: scale(1.4);
+    }
+}
+
+.pop-on-hover {
+    display: inline-block;
+    vertical-align: middle;
+    transform:  perspecitve(1px) translateZ(0); 
+    -webkit-transform: perspecitve(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+.pop-on-hover:hover,
+.pop-on-hover:focus,
+.pop-on-hover:active {
+    animation-name: pop-on-hover;
+    -webkit-animation-name: pop-on-hover;
+    animation-duration: 0.3s;
+    -webkit-animation-duration: 0.3s;
+    animation-timing-function: linear;
+    -webkit-animation-timing-function: linear;
+    animation-iteration-count: 1;
+    -webkit-animation-iteration-count: 1;
+}

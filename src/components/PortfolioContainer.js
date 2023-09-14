@@ -1,8 +1,8 @@
 import React from 'react';
-import About from '';
-import Contact from '';
-import Resume from '';
-import Portfolio from '';
+import About from './pages/About/About';
+import Portfolio from './pages/Portfolio/Portfolio';
+import Resume from './pages/Resume/Resume';
+import Contact from './pages/Contact/Contact';
 
 export default function PortfolioContainer({currentPage, setCurrentPage}) {
     if (currentPage === 'About') {
