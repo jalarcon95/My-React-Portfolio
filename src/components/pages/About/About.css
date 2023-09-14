@@ -1,0 +1,22 @@
+#profilepic {
+    overflow: hidden;
+    width:100px;
+    height: 100px;
+}
+
+#profilepic img {
+    object-fit: contain;
+    object-position: left;
+    max-width: 80%;
+    height: 100px;
+}
+
+#about-me-title {
+    display: flex;
+    justify-content: center;
+}
+
+#p-about {
+    display: flex;
+    text-align: center;
+}
