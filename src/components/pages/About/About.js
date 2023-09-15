@@ -11,10 +11,10 @@ export default function About() {
                     component='img'
                     className='color-img'
                     style={{
-                        height:'100px',
-                        width:'100px',
+                        height:'200px',
+                        width:'150px',
                         margin: '0 auto',
-                        paddingTop: '20px',
+                        paddingTop: '50px',
                     }}
                     image={profilepic}
                     alt='About Me'

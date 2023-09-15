@@ -1,14 +1,14 @@
 #profilepic {
     overflow: hidden;
-    width:100px;
-    height: 100px;
+    width:200px;
+    height: 150px;
 }
 
 #profilepic img {
     object-fit: contain;
     object-position: left;
     max-width: 80%;
-    height: 100px;
+    height: 200px;
 }
 
 #about-me-title {
