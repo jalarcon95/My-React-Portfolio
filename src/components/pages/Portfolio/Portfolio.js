@@ -1,13 +1,13 @@
 import React from 'react';
 import Grid from '@mui/material/Grid';
-import './Portfolio.css'
+import './Portfolio.css';
 import Card from '@mui/material/Card';
 import CardActions from '@mui/material/CardActions';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
-import {projects} from '';
+import {projects} from '../../../projects';
 
 export function Project({project}) {
     return (
@@ -61,7 +61,7 @@ export default function Work() {
                 spacing={{xs: 2, md: 3}}
                 columns={{xs: 4, sm: 8, md: 12}}
             >
-                {Array.from(Array(6)).map((_, index) => (
+                {Array.from(Array(3)).map((_, index) => (
                     <Grid item xs={2} sm={4} md={4} key={index}>
                     </Grid>
                 ))}

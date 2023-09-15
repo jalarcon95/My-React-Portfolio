@@ -1,7 +1,7 @@
 div#project {
     display: flex;
     height: 25vh;
-    background-image: url();
+    background-image: url(../../assets/5-Day-Weather-Forecast.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
