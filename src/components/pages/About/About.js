@@ -14,14 +14,14 @@ export default function About() {
                         height:'200px',
                         width:'150px',
                         margin: '0 auto',
-                        paddingTop: '50px',
+                        paddingTop: '100px',
                     }}
                     image={profilepic}
                     alt='About Me'
                 /> 
             </div>
 
-            <div style={{width: '80%', margin: '0 auto'}}>
+            <div style={{width: '100%', margin: '0 auto'}}>
                 <h1 id='about-me-title'>About Me</h1>
                 <p id='p-about'>
 
