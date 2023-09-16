@@ -26,7 +26,7 @@ export default function Contact() {
     };
 
     const validateEmail = (e) => {
-        e.preventDafault();
+        e.preventDefault();
         console.log(e);
         const {name, value} = e.target;
         setEmail(value);
