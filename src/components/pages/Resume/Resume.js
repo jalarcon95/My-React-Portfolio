@@ -28,7 +28,6 @@ export default function Resume() {
                 style={{
                     display:'flex',
                     justifyContent: 'center',
-                    textDecoration: 'underline',
                 }}
             >
                 
