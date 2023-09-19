@@ -21,7 +21,7 @@ export default function About() {
                 /> 
             </div>
 
-            <div style={{width: '100%', margin: '0 auto'}}>
+            <div style={{width: '75%', margin: '0 auto'}}>
                 <h1 id='about-me-title'>About Me</h1>
                 <p id='p-about'>
                     Hello! My name is John Alarcon and I am an aspiring web developer that is currently enrolled in the 
@@ -29,7 +29,6 @@ export default function About() {
                  
                 </p>
                 <p id='p-about'>
-                    
                     My background is mainly focused in sales, finance, client relationships, and customer service. I've worked in banking, electronics retail, and residential real estate.  
                     I have a Bachelor's degree in Business Administration and a Florida Real Estate License. I've built a strong foundation in 
                     problem-solving, working in teams, data analysis, relationship building, and time management. Throughout my work experience, I have always leveraged
