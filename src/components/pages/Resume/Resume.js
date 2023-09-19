@@ -2,7 +2,7 @@ import React from 'react';
 import './Resume.css';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
-import PdfFile from '';
+import PdfFile from '../../assets/My-Resume-2023.pdf';
 
 export default function Resume() {
     return (

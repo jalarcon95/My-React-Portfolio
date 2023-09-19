@@ -40,7 +40,7 @@ export default function About() {
                     
                     Outside of web development, I love to watch and play soccer. I enjoy playing weekly in a compeititve league with friends and I also enjoy 
                     supporting Orlando's local MLS club OCSC! I enjoy traveling, playing videogames, and cooking for my family & friends. I am also involved in my local community
-                    by officiating in several different levels of youth soccer as a Certified Referee with USSF.
+                    by officiating several levels of youth soccer as a Certified Referee with USSF.
                     
                 </p>
             </div>
