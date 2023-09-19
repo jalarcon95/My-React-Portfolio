@@ -11,17 +11,17 @@ export default function About() {
                     component='img'
                     className='color-img'
                     style={{
-                        height:'200px',
-                        width:'150px',
+                        height:'250px',
+                        width:'200px',
                         margin: '0 auto',
-                        paddingTop: '100px',
+                        paddingTop: '60px',
                     }}
                     image={profilepic}
                     alt='About Me'
                 /> 
             </div>
 
-            <div style={{width: '75%', margin: '0 auto'}}>
+            <div style={{width: '60%', margin: '0 auto'}}>
                 <h1 id='about-me-title'>About Me</h1>
                 <p id='p-about'>
                     Hello! My name is John Alarcon and I am an aspiring web developer that is currently enrolled in the 

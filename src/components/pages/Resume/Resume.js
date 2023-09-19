@@ -23,15 +23,52 @@ export default function Resume() {
                         Click Here to Download Resume
                     </Button>
                 </a>
-            </div>
-            <h2
+                <h2
                 style={{
                     display:'flex',
                     justifyContent: 'center',
+                    textDecoration: 'underline',
                 }}
-            >
-                
-            </h2>
+                >
+                Front-end Technologies
+                </h2>
+                <p
+                    style={{
+                        display:'flex',
+                        justifyContent: 'center',
+                        paddingRight: '100px',
+                    }}
+                >
+                    - HTML
+                    <br></br>- CSS
+                    <br></br>- Javascript
+                    <br></br>- React
+                    <br></br>- Bootstrap
+                </p>
+                <h2
+                    style={{
+                        display:'flex',
+                        justifyContent: 'center',
+                        textDecoration: 'underline',
+                    }}
+                >
+                    Back-end Technologies  
+                </h2>
+                <p
+                    style={{
+                        display:'flex',
+                        justifyContent: 'center',
+                        paddingRight: '100px',
+                    }}
+                >
+                    - REST API's
+                    <br></br>- Node.js
+                    <br></br>- Express.js
+                    <br></br>- MySQL
+                    <br></br>- MongoDB
+                    <br></br>- GraphQL
+                </p>
+            </div>
         </Box>
-    )
+    );
 }
