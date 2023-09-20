@@ -12,7 +12,7 @@ import {projects} from '../../../projects';
 export function Project({project}) {
     return (
         <Grid item xs={4} style={{display:'flex', justifyContent: 'center'}}>
-            <Card sx={{maxWidth: 350}} style={{ backgroundColor: 'lightgrey'}}>
+            <Card sx={{maxWidth: 340}} style={{ backgroundColor: 'lightgrey'}}>
                 <CardMedia
                     component='img'
                     alt='displayed projects with associated links'
@@ -52,7 +52,7 @@ export function Project({project}) {
 
 export default function Work() {
     return (
-        <div style={{paddingLeft: '50px', paddingRight:'50px'}}>
+        <div style={{paddingLeft: '60px', paddingRight:'60px'}}>
             <h1 style={{display: 'flex', justifyContent: 'center'}}>Portfolio
             </h1>
 
@@ -61,7 +61,7 @@ export default function Work() {
                 spacing={{xs: 2, md: 3}}
                 columns={{xs: 4, sm: 8, md: 12}}
             >
-                {Array.from(Array(5)).map((_, index) => (
+                {Array.from(Array(3)).map((_, index) => (
                     <Grid item xs={2} sm={4} md={4} key={index}>
                     </Grid>
                 ))}

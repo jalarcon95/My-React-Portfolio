@@ -32,17 +32,17 @@ export const projects = [
     },
 
     {
-        projectTitle: '',
+        projectTitle: 'Coming Soon!',
         description: '',
-        imageLink: '',
+        imageLink: 'https://raw.githubusercontent.com/jalarcon95/My-React-Portfolio/main/src/components/assets/coming-soon.jpeg',
         liveLink: '',
         gitHub: '',
     },
 
     {
-        projectTitle: '',
+        projectTitle: 'Coming Soon!',
         description: '',
-        imageLink: '',
+        imageLink: 'https://raw.githubusercontent.com/jalarcon95/My-React-Portfolio/main/src/components/assets/coming-soon.jpeg',
         liveLink: '',
         gitHub: '',
     },
