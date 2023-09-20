@@ -5,7 +5,7 @@ function Navigation({ currentPage, setCurrentPage}) {
     return (
         <ul
             className='nav nav-tabs'
-            style={{paddingRight: '40px', paddingTop:'30px'}}
+            style={{ paddingRight: '40px', paddingTop:'30px'}}
         >
             <li className='nav-item'>
                 <a

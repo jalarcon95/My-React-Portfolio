@@ -61,7 +61,7 @@ export default function Work() {
                 spacing={{xs: 2, md: 3}}
                 columns={{xs: 4, sm: 8, md: 12}}
             >
-                {Array.from(Array(3)).map((_, index) => (
+                {Array.from(Array(5)).map((_, index) => (
                     <Grid item xs={2} sm={4} md={4} key={index}>
                     </Grid>
                 ))}

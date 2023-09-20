@@ -31,4 +31,21 @@ export const projects = [
         gitHub: '',
     },
 
+    {
+        projectTitle: '',
+        description: '',
+        imageLink: '',
+        liveLink: '',
+        gitHub: '',
+    },
+
+    {
+        projectTitle: '',
+        description: '',
+        imageLink: '',
+        liveLink: '',
+        gitHub: '',
+    },
+
+
 ];
