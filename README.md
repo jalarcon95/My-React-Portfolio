@@ -16,6 +16,8 @@
 
 This project is an interactive portfolio created using React. It is designed to share my projects, resume, and skills with potential employers. React is a modern, interactive framework that allows developers to create dynamic appliations with multi-page functionality through the component structure. To this day, React is one of the most widely used libraries in Javascript. 
 
+Live Link: https://jalarcon95.github.io/My-React-Portfolio/
+
 ## [Installation](#table-of-contents)
 
 - Initial file structure was created with [Create-React-App](https://create-react-app.dev/docs/getting-started).
