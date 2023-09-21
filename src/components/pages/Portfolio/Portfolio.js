@@ -53,7 +53,7 @@ export function Project({project}) {
 export default function Work() {
     return (
         <div style={{paddingLeft: '60px', paddingRight:'60px'}}>
-            <h1 style={{display: 'flex', justifyContent: 'center'}}>Portfolio
+            <h1 style={{display: 'flex', justifyContent: 'center'}}> My Portfolio
             </h1>
 
             <Grid

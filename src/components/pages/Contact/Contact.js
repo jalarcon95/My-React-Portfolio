@@ -124,7 +124,7 @@ export default function Contact() {
                             xs={{ width: '100%'}}
                             variant='contained'
                         >
-                            Submit
+                            Send Message
                         </Button>
                     </MenuItem>
                 </Stack>
