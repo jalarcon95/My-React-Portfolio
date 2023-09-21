@@ -18,6 +18,10 @@ This project is an interactive portfolio created using React. It is designed to 
 
 ## [Installation](#table-of-contents)
 
+- Initial file structure was created with [Create-React-App](https://create-react-app.dev/docs/getting-started).
+- Styling, icons, and UI created using [Material-UI](https://mui.com/material-ui/getting-started/).
+- Developers can run 'npm install' on their machine to download all necessary packages after cloning this repository.
+
 
 ## [Usage](#table-of-contents)
 
