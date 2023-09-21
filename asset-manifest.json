@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/My-React-Portfolio/static/css/main.67f4064d.css",
+    "main.js": "/My-React-Portfolio/static/js/main.a78a8c59.js",
+    "static/js/787.56d9acf9.chunk.js": "/My-React-Portfolio/static/js/787.56d9acf9.chunk.js",
+    "static/media/profilepic.jpg": "/My-React-Portfolio/static/media/profilepic.2c7be3c27572dc0a1012.jpg",
+    "static/media/My-Resume-2023.pdf": "/My-React-Portfolio/static/media/My-Resume-2023.d27e9f1072de08ad35a3.pdf",
+    "static/media/5-Day-Weather-Forecast.png": "/My-React-Portfolio/static/media/5-Day-Weather-Forecast.1b128560acc522270414.png",
+    "index.html": "/My-React-Portfolio/index.html",
+    "main.67f4064d.css.map": "/My-React-Portfolio/static/css/main.67f4064d.css.map",
+    "main.a78a8c59.js.map": "/My-React-Portfolio/static/js/main.a78a8c59.js.map",
+    "787.56d9acf9.chunk.js.map": "/My-React-Portfolio/static/js/787.56d9acf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67f4064d.css",
+    "static/js/main.a78a8c59.js"
+  ]
+}
