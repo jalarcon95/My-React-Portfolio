@@ -33,8 +33,8 @@ export const projects = [
 
     {
         projectTitle: 'Fresh Paws',
-        description: 'An application that allow users to create an account and manage their pet grooming appointments.',
-        imageLink: 'https://raw.githubusercontent.com/jalarcon95/My-React-Portfolio/main/src/components/assets/coming-soon.jpeg',
+        description: 'An application that allow users to create an account and manage their pet grooming appointments. (collaborative project)',
+        imageLink: 'https://raw.githubusercontent.com/jalarcon95/My-React-Portfolio/main/src/components/assets/Fresh-Paws.png',
         liveLink: 'https://freshpaws-6177244a2a25.herokuapp.com/',
         gitHub: 'https://github.com/jalarcon95/Fresh-Paws',
     },
