@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/My-React-Portfolio/static/css/main.80c59f64.css",
-    "main.js": "/My-React-Portfolio/static/js/main.cb2402c1.js",
+    "main.css": "/My-React-Portfolio/static/css/main.bb9a8ad8.css",
+    "main.js": "/My-React-Portfolio/static/js/main.647093c3.js",
     "static/js/787.56d9acf9.chunk.js": "/My-React-Portfolio/static/js/787.56d9acf9.chunk.js",
     "static/media/profilepic.jpg": "/My-React-Portfolio/static/media/profilepic.2c7be3c27572dc0a1012.jpg",
     "static/media/My-Resume-2023.pdf": "/My-React-Portfolio/static/media/My-Resume-2023.d27e9f1072de08ad35a3.pdf",
     "static/media/5-Day-Weather-Forecast.png": "/My-React-Portfolio/static/media/5-Day-Weather-Forecast.1b128560acc522270414.png",
     "index.html": "/My-React-Portfolio/index.html",
-    "main.80c59f64.css.map": "/My-React-Portfolio/static/css/main.80c59f64.css.map",
-    "main.cb2402c1.js.map": "/My-React-Portfolio/static/js/main.cb2402c1.js.map",
+    "main.bb9a8ad8.css.map": "/My-React-Portfolio/static/css/main.bb9a8ad8.css.map",
+    "main.647093c3.js.map": "/My-React-Portfolio/static/js/main.647093c3.js.map",
     "787.56d9acf9.chunk.js.map": "/My-React-Portfolio/static/js/787.56d9acf9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80c59f64.css",
-    "static/js/main.cb2402c1.js"
+    "static/css/main.bb9a8ad8.css",
+    "static/js/main.647093c3.js"
   ]
 }
