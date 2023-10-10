@@ -24,16 +24,16 @@ export const projects = [
     },
 
     {
-        projectTitle: 'Coming Soon!',
-        description: '',
-        imageLink: 'https://raw.githubusercontent.com/jalarcon95/My-React-Portfolio/main/src/components/assets/coming-soon.jpeg',
-        liveLink: '',
-        gitHub: '',
+        projectTitle: 'JetLagged',
+        description: 'This app is an interactive trip planner that allows the user to stay organized for their next trip. (collaborative project)',
+        imageLink: 'https://github.com/jalarcon95/Jetlagged/blob/main/assets/images/jetlagged-webpage.png?raw=true',
+        liveLink: 'https://rscime.github.io/Jetlagged/',
+        gitHub: 'https://github.com/jalarcon95/Jetlagged',
     },
 
     {
         projectTitle: 'Fresh Paws',
-        description: 'An application that allow users to create an account and manage their pet grooming appointments. (collaborative project)',
+        description: 'A MERN-Stack application that allow users to create an account and manage their pet grooming appointments. (collaborative project)',
         imageLink: 'https://raw.githubusercontent.com/jalarcon95/My-React-Portfolio/main/src/components/assets/Fresh-Paws.png',
         liveLink: 'https://freshpaws-6177244a2a25.herokuapp.com/',
         gitHub: 'https://github.com/jalarcon95/Fresh-Paws',

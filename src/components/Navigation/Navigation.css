@@ -7,7 +7,7 @@
 
 #nav-link {
     display: flex;
-    color: #1bcfef;
+    color: #83ecff;
     font-size: 24px;
     justify-content: end;
 }
@@ -19,7 +19,7 @@
 }
 
 #nav-link:active {
-    color: #1bcfef;
+    color: #83ecff;
     display: flex;
     justify-content: end;
 }

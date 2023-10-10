@@ -12,7 +12,7 @@ import {projects} from '../../../projects';
 export function Project({project}) {
     return (
         <Grid item xs={4} style={{display:'flex', justifyContent: 'center'}}>
-            <Card sx={{maxWidth: 340}} style={{ backgroundColor: 'lightgrey'}}>
+            <Card sx={{maxWidth: 340}} style={{ backgroundColor: '#83ecff'}}>
                 <CardMedia
                     component='img'
                     alt='displayed projects with associated links'
