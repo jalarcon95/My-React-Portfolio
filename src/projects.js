@@ -40,11 +40,11 @@ export const projects = [
     },
 
     {
-        projectTitle: 'Coming Soon!',
-        description: '',
+        projectTitle: 'Book Search Engine',
+        description: 'MERN stack application that allows users to search for books using the Google Books API.',
         imageLink: 'https://raw.githubusercontent.com/jalarcon95/My-React-Portfolio/main/src/components/assets/coming-soon.jpeg',
-        liveLink: '',
-        gitHub: '',
+        liveLink: 'https://arcane-reaches-64989-dc1d7ffd8d67.herokuapp.com/Links to an external site.',
+        gitHub: 'https://github.com/jalarcon95/Book-Search-Engine-MERN-Stack-App',
     },
 
 
