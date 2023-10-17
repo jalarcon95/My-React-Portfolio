@@ -42,7 +42,7 @@ export const projects = [
     {
         projectTitle: 'Book Search Engine',
         description: 'MERN stack application that allows users to search for books using the Google Books API.',
-        imageLink: 'https://raw.githubusercontent.com/jalarcon95/My-React-Portfolio/main/src/components/assets/coming-soon.jpeg',
+        imageLink: 'https://github.com/jalarcon95/My-React-Portfolio/blob/main/src/components/assets/Book-Search-Engine.png?raw=true',
         liveLink: 'https://arcane-reaches-64989-dc1d7ffd8d67.herokuapp.com/Links to an external site.',
         gitHub: 'https://github.com/jalarcon95/Book-Search-Engine-MERN-Stack-App',
     },
