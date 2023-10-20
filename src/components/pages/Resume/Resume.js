@@ -2,7 +2,7 @@ import React from 'react';
 import './Resume.css';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
-import PdfFile from '../../assets/My-Resume-2023.pdf';
+import PdfFile from '../../assets/john-alarcon-2023-resume.pdf';
 
 export default function Resume() {
     return (
